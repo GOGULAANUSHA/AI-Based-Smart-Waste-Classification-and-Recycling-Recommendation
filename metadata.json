@@ -1,0 +1,6 @@
+{
+  "name": "EcoCycle AI - Smart Waste Classifier & Upcycling Guide",
+  "description": "AI-powered waste classification, municipal recycling verification, and product upcycling transformation engine.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
